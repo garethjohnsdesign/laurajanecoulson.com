@@ -1044,14 +1044,6 @@
 		"oAP": "/Gemfile",
 		"oF": 0
 		},
-	"/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/Gemfile.lock",
-		"oF": 0
-		},
 	"/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
