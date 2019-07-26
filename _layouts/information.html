@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+
+    <div class="small-12 medium-6 cell">
+        {{page.content | markdownify}}
+    <div class="small dark-gray text-uppercase margin-top-2"><a href="https://www.garethjohnsdesign.com">Website by Reformation</a></div>
+
+    </div>
+
+    <div class="small-12 medium-shrink cell">
+     {% for detail in page.details %}
+        <div class="small text-uppercase">{{detail.title}}</div>
+        {{detail.text | markdownify}}
+      {% endfor %}
+
+    <ul class="menu">
+      <li><a href="/terms/">Terms</a></li>
+      <li class="padding-left-1"><a href="/privacy/">Privacy</a></li>
+    </ul>
+
+    </div>
+
+
+  </div>
+</div>

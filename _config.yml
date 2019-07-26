@@ -1,0 +1,59 @@
+---
+title: Laura Jane Coulson
+timezone: UTC
+collections:
+  uploads:
+    title: Uploads
+    output: false
+  photography:
+    title: Photographyxw
+    output: true
+  film:
+    title: Film
+    output: true
+defaults:
+url: https://www.laurajanecoulson.com
+description: London-based photographer and filmmaker
+permalink: pretty
+exclude:
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+email: hello@laurajanecoulson.com
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %Y"
+future: true
+social: 
+ instagram: https://www.instagram.com/laurajanecoulson/
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  collection: posts
+  enabled: true
+  per_page: 12
+  limit: 0
+  permalink: "/page/:num/"
+  title: ":title"
+  sort_field: date
+  sort_reverse: true
+autopages:
+  enabled: false
+imgix:
+  source: laura-jane-coulson.imgix.net

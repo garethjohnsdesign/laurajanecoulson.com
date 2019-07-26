@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<!-- Projects -->
+<div class="grid-x grid-padding-x grid-padding-y">
+  {% assign projects = paginator.posts %}
+  {% for project in projects %}
+    {% include partials/excerpt.html %}
+  {% endfor %}
+</div>
+<!-- End Projects -->
+
+<!-- Pagination -->  
+{% include pagination/collection.html %}
+<!-- End Pagination -->

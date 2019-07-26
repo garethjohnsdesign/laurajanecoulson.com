@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<!-- Page Image -->
+{% if page.image %}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell">
+
+      {% assign image = page.image %}
+      <div data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="image" data-aos="fade-in">
+        {% if page.video %}
+        <div class="grid-y height-100 align-center video content">
+          <div class="shrink cell text-center" data-src="{{page.video}}">
+            <a href="{{page.video}}" class="white"><svg class="icon icon-play_arrow"><use xlink:href="/assets/icons/symbol-defs.svg#icon-play_arrow"></use></svg></a>
+          </div>
+        </div>
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+{% endif %}
+<!-- End Page Image -->
+
+<!-- Meta -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+  <div class="small-12 medium-10 cell text-center">
+    <a data-toggle="project__meta-{{page.title |slugify}}"><svg class="icon icon-add"><use xlink:href="/assets/icons/symbol-defs.svg#icon-add"></use></svg></a>
+  </div>
+</div>
+<!-- End Meta -->
+
+<!-- Meta -->
+{% include reveal/meta.html %}
+<!-- End Meta -->
