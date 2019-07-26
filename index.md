@@ -3,7 +3,8 @@ title: Laura Jane Coulson
 position: 0
 image: "/uploads/og-image.png"
 images:
-- "/uploads/test-001.jpg"
+- image: "/uploads/test-001.jpg"
+  aspect-ratio: 5-7
 - "/uploads/test-002.jpg"
 - "/uploads/test-003.jpg"
 - "/uploads/test-004.jpg"
