@@ -5,7 +5,6 @@ position: 0
 client: James Vincent McMorrow
 video: https://vimeo.com/78293068
 image: "/uploads/james-vincent-mcmorrow-cavalier.jpg"
-
 director: Aoife McArdle
 producer: Tamsin Glasson
 production-company: Colonel Blimp

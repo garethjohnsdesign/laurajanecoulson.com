@@ -2,16 +2,18 @@
 title: Laura Jane Coulson
 timezone: UTC
 collections:
-  uploads:
-    title: Uploads
-    output: false
-  photography:
-    title: Photographyxw
-    output: true
   film:
     title: Film
     output: true
-defaults:
+  photography:
+    title: Photographyxw
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
 url: https://www.laurajanecoulson.com
 description: London-based photographer and filmmaker
 permalink: pretty
@@ -36,8 +38,8 @@ logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %Y"
 future: true
-social: 
- instagram: https://www.instagram.com/laurajanecoulson/
+social:
+  instagram: https://www.instagram.com/laurajanecoulson/
 compress_html:
   comments:
   - "<!-- "
