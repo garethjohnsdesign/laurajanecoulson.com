@@ -3,18 +3,16 @@ title: Information
 position: 3
 details:
 - title: Instagram
-  text: "[@steveannisdop](https://www.instagram.com/steveannisdop/)"
-- title: Vimeo
-  text: "[@steveannisdop](https://vimeo.com/steveannisdop)"
+  text: "[@laurajanecoulson](https://www.instagram.com/laurajanecoulson/)"
 - title: General Enquiries
-  text: "[studio@steveannisdop.com](mailto:studio@steveannisdop.com)"
+  text: "[studio@laurajanecoulson.com](mailto:studio@laurajanecoulson.com)"
 - title: UK Enquiries
-  text: "[Lux](mailto:rebecca@luxartists.net)"
+  text: "[Webber UK](mailto:daisy@webberrepresents.com )"
 - title: US Enquiries
-  text: "[William Morris Endeavor](mailto:SShankewitz@wmeentertainment.com)"
+  text: "[Webber USA](mailto:daisy@elle@webberrepresents.com)"
 layout: information
 ---
 
-Steve Annis is a Director of photography based in London working across film, advertising and music promos.
+Laura Jane Coulson is photographer and director based in London and New York working across multi platform projects within the fashion, beauty, celebrity and advertising industries.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat,
+Clients include, Adidas, AnOther Man, Arket, British Vogue, Buffalo Zine, Burberry, Coach, Dazed Magazine, DOUBLE, Emilio Pucci, Gucci, Hermès, i-D Magazine, Interview, JW Anderson, Levis, Missoni, Miu Miu, New York Times, NIke, Noon Magazine, Nowness, Pleasure Garden, Sportmax, Topshop, Uniqlo, Universal Records, WSJ Magazine, American Vogue

@@ -2,25 +2,25 @@
 <header class="grid-x grid-padding-x grid-padding-y align-justify align-middle swup-transition-up" id="swup-header"> 
   <div class="auto cell">
     {% if page.layout == "project" %}
-    <a data-toggle="navigation" class="h5">{{page.title}}{% if page.client %}<span class="dark-gray padding-left-1 show-for-large">{{page.client}}</span>{% endif %}</a>
+    <a href="/">{{page.title}}{% if page.client %}<span class="dark-gray padding-left-1 show-for-large">{{page.client}}</span>{% endif %}</a>
     {% else %}
-    <a data-toggle="navigation" class="h5">{{site.title}}</a>
+    <a href="/">{{site.title}}</a>
     {% endif %}
   </div>
 
   <div class="shrink cell" style="z-index: 1007">
   {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
-    <ul class="menu" data-accordion-menu>
+
     {% for entry in site.data.navigation.header %}
     {% if entry.url == current_page %}
     {% assign current = 'class="active"' %}
     {% else %}
     {% assign current = null %}
     {% endif %}
-    <li {{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" data-toggle="navigation">{{ entry.title }}</a></li>
+    <a href="{{ site.baseurl }}{{ entry.url }}" class="{{ current }}">{{ entry.title }}</a>{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
-    </ul>
+
 
     
   </div>

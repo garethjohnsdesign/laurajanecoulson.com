@@ -7,7 +7,7 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "31486",
+"creatorBuild": "31491",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -252,6 +252,14 @@
 		"oAP": "/_layouts/default.html",
 		"oF": 0
 		},
+	"/_layouts/home copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/home copy.html",
+		"oF": 0
+		},
 	"/_layouts/home.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -298,14 +306,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/project.html",
-		"oF": 0
-		},
-	"/_layouts/subscribe.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_layouts/subscribe.html",
 		"oF": 0
 		},
 	"/_layouts/work.html": {
@@ -1042,6 +1042,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/Gemfile",
+		"oF": 0
+		},
+	"/Gemfile.lock": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/Gemfile.lock",
 		"oF": 0
 		},
 	"/humans.txt": {
