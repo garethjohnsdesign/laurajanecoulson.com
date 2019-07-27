@@ -9,6 +9,16 @@
 }
 
 @font-face {
+  font-family: 'Lyon Text Italic';
+  src: 
+  url('../fonts/lyon-text-regular-italic.woff2') format('woff2'),
+  url('../fonts/lyon-text-regular-italic.woff') format('woff'),
+  url('../fonts/lyon-text-regular-italic.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Gallery';
   src: 
   url('../fonts/gallery.woff') format('woff');

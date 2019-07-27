@@ -252,14 +252,6 @@
 		"oAP": "/_layouts/default.html",
 		"oF": 0
 		},
-	"/_layouts/home copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_layouts/home copy.html",
-		"oF": 0
-		},
 	"/_layouts/home.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -282,14 +274,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_layouts/missing.html",
-		"oF": 0
-		},
-	"/_layouts/notes.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_layouts/notes.html",
 		"oF": 0
 		},
 	"/_layouts/page.html": {
@@ -767,6 +751,22 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
+	"/assets/fonts/lyon-text-regular-italic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/lyon-text-regular-italic.woff",
+		"oF": 0
+		},
+	"/assets/fonts/lyon-text-regular-italic.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/lyon-text-regular-italic.woff2",
+		"oF": 0
+		},
 	"/assets/fonts/lyon-text-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -1017,7 +1017,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/films.md": {
+	"/film.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1027,7 +1027,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/films.md",
+		"oAP": "/film.md",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1170,7 +1170,7 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/node_modules/lightgallery/dist/js/lightgallery.js": {
+	"/node_modules/lightGallery/dist/js/lightgallery.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
@@ -1199,6 +1199,25 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/photography.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/photography.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/privacy.md": {
 		"cB": 0,

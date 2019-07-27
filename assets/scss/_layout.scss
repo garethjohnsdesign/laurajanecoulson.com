@@ -198,6 +198,10 @@ strong, b {
   font-family: $sans-bold;
 }
 
+.active {
+  font-family: $serif-italic;
+}
+
 a {
   transition: color .35s cubic-bezier(.39, .575, .565, 1);
 }

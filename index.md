@@ -6,7 +6,7 @@ images:
 - image: "/uploads/test-001.jpg"
   aspect-ratio: 5-7
   align-vertical: top
-  align-horizontal: left
+  align-horizontal: center
   size: large
 - image: "/uploads/test-002.jpg"
   aspect-ratio: 7-5

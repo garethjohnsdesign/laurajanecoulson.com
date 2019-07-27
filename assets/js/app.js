@@ -50,6 +50,12 @@ if ($("body").hasClass("project")) {
   } );
 }
 
+$('#selector1').lightGallery({
+    selector: '.item',
+    download: false,
+    counter: false
+});
+
 
 
 // 1. Loader
