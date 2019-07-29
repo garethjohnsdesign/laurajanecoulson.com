@@ -1263,7 +1263,7 @@ body:not(.lg-from-hash){
     bottom: 0;
     z-index: $zindex-backdrop;
 //     background-color: #000;
-    background-color: $black;
+    background-color: $white;
     opacity: 0;
     @include transition(opacity 0.15s ease 0s);
     &.in{

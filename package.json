@@ -19,6 +19,7 @@
     "lightgallery": "^1.6.12",
     "motion-ui": "~2.0.0",
     "swup": "^2.0.5",
+    "tippy.js": "^4.3.4",
     "what-input": "^5.1.2"
   },
   "private": true

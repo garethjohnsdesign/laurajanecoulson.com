@@ -9,6 +9,7 @@ import "lightGallery";
 import "lg-fullscreen";
 import "lg-video";
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
+import tippy from 'tippy.js'
 
 
 $( document ).ready( function() {
@@ -30,6 +31,7 @@ $( document ).foundation();
 // 1. Lightgallery
 // ---------------
 
+/*
 if ($("body").hasClass("project")) {
   $(".video" ).lightGallery( {
     counter: false,
@@ -49,6 +51,7 @@ if ($("body").hasClass("project")) {
     }
   } );
 }
+*/
 
 $('#selector1').lightGallery({
     selector: '.item',
@@ -56,6 +59,39 @@ $('#selector1').lightGallery({
     counter: false
 });
 
+
+
+
+// 1. Text on Mouse Over
+// ---------------
+
+tippy('[data-tippy-content]', {
+  placement: 'bottom',
+  followCursor: true,
+  theme: 'custom',
+  flip: false
+})
+
+/*
+$(function (selector = '[data-message]', horizontalOffset = 0, verticalOffset = 50) {
+;
+
+    Array.from(document.querySelectorAll(selector)).forEach(function (item) {
+        // Every time the pointer moves over the element the
+        // CSS-rule in overwritten with new values for
+        // top and left.
+        item.addEventListener('mousemove', function (e) {
+            let countCssRules = document.styleSheets[0].cssRules.length;
+            let newRule = selector +
+                ':hover:after { display: block; ' +
+                'left: ' + (e.offsetX + horizontalOffset) + 'px; ' +
+                'top: ' + (e.offsetY + verticalOffset) + 'px; }';
+
+            document.styleSheets[0].insertRule(newRule, countCssRules);
+        });
+    });
+}('.tooltip-item', 10));
+*/
 
 
 // 1. Loader
