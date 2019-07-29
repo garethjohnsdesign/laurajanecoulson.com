@@ -1,11 +1,11 @@
 ---
 title: T-China
-date: 2018-10-15 09:29:24
+date: 2018-10-15 09:29:24 Z
 position: 0
 video: https://vimeo.com/295166600
-image:
-producer:
-production-company:
+image: 
+producer: 
+production-company: 
 layout: project
 ---
 
