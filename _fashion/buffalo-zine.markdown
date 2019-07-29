@@ -1,6 +1,6 @@
 ---
 title: Buffalo Zine
-date: 2017-09-30 16:22:49
+date: 2017-09-30 16:22:49 Z
 position: 0
 image: "/uploads/buffalo-zine-01.jpg"
 aspect-ratio: 5-7
@@ -19,3 +19,4 @@ images:
 publication: 
 layout: project
 ---
+
