@@ -50,9 +50,9 @@
 // ----------
 
 .loader {
-    z-index: 1040;
+    z-index: -1040;
     position: fixed;
-    background: $white;
+//     background: $white;
     top: 0;
     left: 0;
     height: 100%;
@@ -66,10 +66,19 @@
   &.loading {
     opacity: 1;
   }
+/*
   &.loaded {
     transform: translateY(-100%);
     transition: transform 800ms;
     transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+  }
+*/
+  &.loaded {
+    opacity: 1;
+/*
+    transition: transform 800ms;
+    transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+*/
   }
 }
 
@@ -327,9 +336,14 @@ footer {
 // 9. Hover Effect
 // ---------------
 
+.item {
+  cursor: pointer;
+}
+
 .tippy-tooltip.custom-theme {
   background-color: transparent;
   color: $black;
+  text-transform: uppercase;
 }
 
 .tippy-tooltip.custom-theme[data-animatefill] {
@@ -370,4 +384,12 @@ position: absolute;
 
 .project__client {
   padding-right: 0.5rem;
+}
+
+[data-aos="fade-out"] {
+  opacity: 1;
+  transition-property: opacity;
+  &.aos-animate {
+    opacity: 0;
+  }
 }

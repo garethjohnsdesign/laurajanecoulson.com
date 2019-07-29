@@ -1,6 +1,10 @@
 header:
-  - title: Photography
-    url: /photography/
+  - title: Fashion
+    url: /fashion/
+  - title: Commissions
+    url: /commissions/
+  - title: Personal
+    url: /personal/
   - title: Film
     url: /film/
   - title: Information

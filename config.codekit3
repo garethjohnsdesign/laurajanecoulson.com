@@ -60,78 +60,6 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_films/i-am-mother.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/i-am-mother.markdown",
-		"oF": 0
-		},
-	"/_films/italy-texas.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/italy-texas.markdown",
-		"oF": 0
-		},
-	"/_films/james-vincent-mcmorrow-cavalier.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/james-vincent-mcmorrow-cavalier.markdown",
-		"oF": 0
-		},
-	"/_films/james-vincent-mcmorrow-glacier.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/james-vincent-mcmorrow-glacier.markdown",
-		"oF": 0
-		},
-	"/_films/james-vincent-mcmorrow-red-dust.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/james-vincent-mcmorrow-red-dust.markdown",
-		"oF": 0
-		},
-	"/_films/kissing-candice.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/kissing-candice.markdown",
-		"oF": 0
-		},
-	"/_films/luminaries.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/luminaries.markdown",
-		"oF": 0
-		},
-	"/_films/os-pixadores.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/os-pixadores.markdown",
-		"oF": 0
-		},
-	"/_films/titane-lune.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_films/titane-lune.markdown",
-		"oF": 0
-		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -298,6 +226,126 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/work.html",
+		"oF": 0
+		},
+	"/_moving-image/another-man-02.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/another-man-02.markdown",
+		"oF": 0
+		},
+	"/_moving-image/another-man.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/another-man.markdown",
+		"oF": 0
+		},
+	"/_moving-image/crestbridge.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/crestbridge.markdown",
+		"oF": 0
+		},
+	"/_moving-image/gucci.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/gucci.markdown",
+		"oF": 0
+		},
+	"/_moving-image/hermes.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/hermes.markdown",
+		"oF": 0
+		},
+	"/_moving-image/interview.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/interview.markdown",
+		"oF": 0
+		},
+	"/_moving-image/missoni-x-farfetch.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/missoni-x-farfetch.markdown",
+		"oF": 0
+		},
+	"/_moving-image/pull-and-bear-02.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/pull-and-bear-02.markdown",
+		"oF": 0
+		},
+	"/_moving-image/pull-and-bear.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/pull-and-bear.markdown",
+		"oF": 0
+		},
+	"/_moving-image/society-protocol.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/society-protocol.markdown",
+		"oF": 0
+		},
+	"/_moving-image/stride.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/stride.markdown",
+		"oF": 0
+		},
+	"/_moving-image/t-china.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/t-china.markdown",
+		"oF": 0
+		},
+	"/_moving-image/tooshie.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/tooshie.markdown",
+		"oF": 0
+		},
+	"/_moving-image/uniqlo-jw-anderson.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/uniqlo-jw-anderson.markdown",
+		"oF": 0
+		},
+	"/_moving-image/vouge.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_moving-image/vouge.markdown",
 		"oF": 0
 		},
 	"/_site": {
@@ -900,19 +948,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/assets/scss/_loading.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/assets/css/_loading.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/assets/scss/_settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1016,6 +1051,52 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/commissions.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/commissions.html",
+		"oF": 0
+		},
+	"/commissions.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/commissions.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/fashion.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fashion.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/film.md": {
 		"cB": 0,
@@ -1222,7 +1303,7 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/photography.md": {
+	"/personal.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1232,7 +1313,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/photography.html",
+		"oAP": "/personal.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
