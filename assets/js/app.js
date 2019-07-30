@@ -101,7 +101,7 @@ if ($("body").hasClass("home")) {
   $( ".loader" ).removeClass( "hide" );
   $( ".loader" ).addClass( "loading" );
   setTimeout( function() {
-    $( ".loader" ).addClass( "loaded" );
+  $( ".loader" ).addClass( "loaded" );
   }, 2500 
   );
 }
