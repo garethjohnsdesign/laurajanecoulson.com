@@ -695,48 +695,48 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/muse-02.JPG": {
+	"/_uploads/muse-02.jpg": {
 		"ft": 16384,
-		"iS": 282167,
+		"iS": 279324,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/muse-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/muse-03.JPG": {
+	"/_uploads/muse-03.jpg": {
 		"ft": 16384,
-		"iS": 359634,
+		"iS": 352418,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/muse-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/muse-04.JPG": {
+	"/_uploads/muse-04.jpg": {
 		"ft": 16384,
-		"iS": 185519,
+		"iS": 181058,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/muse-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/muse-05.JPG": {
+	"/_uploads/muse-05.jpg": {
 		"ft": 16384,
-		"iS": 148708,
+		"iS": 143172,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/muse-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/noon-01.jpg": {
@@ -860,59 +860,59 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/pleasure-garden-01.JPG": {
+	"/_uploads/pleasure-garden-01.jpg": {
 		"ft": 16384,
-		"iS": 186049,
+		"iS": 177832,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/pleasure-garden-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/pleasure-garden-02.JPG": {
+	"/_uploads/pleasure-garden-02.jpg": {
 		"ft": 16384,
-		"iS": 205744,
+		"iS": 202507,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/pleasure-garden-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/pleasure-garden-03.JPG": {
+	"/_uploads/pleasure-garden-03.jpg": {
 		"ft": 16384,
-		"iS": 267661,
+		"iS": 264050,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/pleasure-garden-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/pleasure-garden-04.JPG": {
+	"/_uploads/pleasure-garden-04.jpg": {
 		"ft": 16384,
-		"iS": 358355,
+		"iS": 351862,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/pleasure-garden-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/pleasure-garden-05.JPG": {
+	"/_uploads/pleasure-garden-05.jpg": {
 		"ft": 16384,
-		"iS": 394368,
+		"iS": 391755,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/pleasure-garden-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/revue-01.jpg": {
@@ -2090,7 +2090,7 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/node_modules/lightGallery/dist/js/lightgallery.js": {
+	"/node_modules/lightgallery/dist/js/lightgallery.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
