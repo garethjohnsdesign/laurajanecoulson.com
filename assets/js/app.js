@@ -53,7 +53,7 @@ if ($("body").hasClass("project")) {
 }
 */
 
-$('#selector1').lightGallery({
+$('.gallery').lightGallery({
     selector: '.item',
     download: false,
     counter: false

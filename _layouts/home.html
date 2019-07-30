@@ -4,7 +4,7 @@ layout: default
 
 <!-- Images -->
 <div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2" data-equalizer id="selector1">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 gallery" data-equalizer>
   
     {% for picture in page.images %}
       <div class="cell" data-equalizer-watch>
@@ -17,9 +17,9 @@ layout: default
                 <div class="cell small-12 {% case picture.size %}{% when 'small' %}medium-6{% when 'medium' %}medium-8{% when 'large' %}medium-10{% when 'full' %}medium-12{% endcase %}">
                   {% case picture.aspect-ratio %}
                   {% when '5-7' %}
-                  <div class="image--5-7 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{image | imgix_url: w: 1024, fit: "clip", auto: "format", auto: "compress", lossless: "true", q: 40, fit: "crop", dpr: 2}}" data-aos="fade-in" data-tippy-content="{{image}}"></div>
+                  <div class="image--5-7 item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{image | imgix_url: w: 1024, fit: "clip", auto: "format", auto: "compress", lossless: "true", q: 40, fit: "crop", dpr: 2}}" data-aos="fade-in"></div>
                   {% when '7-5' %}     
-                  <div class="image--7-5 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{image}}" data-aos="fade-in" data-tippy-content="{{image}}"></div>
+                  <div class="image--7-5 item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{image | imgix_url: w: 1024, fit: "clip", auto: "format", auto: "compress", lossless: "true", q: 40, fit: "crop", dpr: 2}}" data-aos="fade-in"></div>
                   {% endcase %} 
                 </div>
               </div>

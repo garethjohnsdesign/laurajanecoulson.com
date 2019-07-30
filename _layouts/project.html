@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-3">
+<div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-3 gallery">
 {% for image in page.images %} 
   <div class="cell">
   {% assign image = image %}
-   <div class="image--7-5" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+   <div class="image--gallery item" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}" data-src="{{image | imgix_url: w: 1024, fit: "clip", auto: "format", auto: "compress", lossless: "true", q: 40, fit: "crop", dpr: 2}}"></div>
   </div>
 {% endfor %}
 </div>

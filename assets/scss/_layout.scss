@@ -73,9 +73,9 @@
 // ----------
 
 .loader {
-    z-index: 1040;
+    z-index: -1040;
     position: fixed;
-    background: $black;
+    background: transparent;
     top: 0;
     left: 0;
     height: 100%;
@@ -343,6 +343,13 @@ footer {
   background-position: 50%;
 }
 
+.image--gallery {
+  @include aspect-ratio (5, 7);
+  background-size: contain; 
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
 
 // 8. Home
 // -------	
@@ -357,7 +364,6 @@ footer {
 .tippy-tooltip.custom-theme {
   background-color: transparent;
   color: $black;
-  text-transform: uppercase;
 }
 
 .tippy-tooltip.custom-theme[data-animatefill] {
