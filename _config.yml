@@ -2,11 +2,11 @@
 title: Laura Jane Coulson
 timezone: UTC
 collections:
-  editorial:
-    title: Editorial
-    output: true
   commissions:
     title: Commissions
+    output: true
+  editorial:
+    title: Editorial
     output: true
   moving-image:
     title: Moving Image
