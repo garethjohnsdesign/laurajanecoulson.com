@@ -1,11 +1,11 @@
 header:
-  - title: Fashion
-    url: /fashion/
+  - title: Editorial
+    url: /editorial/
   - title: Commissions
     url: /commissions/
-  - title: Personal
-    url: /personal/
   - title: Moving Image
     url: /moving-image/
+  - title: Personal
+    url: /personal/
   - title: Information
     url: /information/

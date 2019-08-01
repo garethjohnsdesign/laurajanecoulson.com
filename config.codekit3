@@ -60,60 +60,60 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_fashion/buffalo-zine.markdown": {
+	"/_editorial/buffalo-zine.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/buffalo-zine.markdown",
+		"oAP": "/_editorial/buffalo-zine.markdown",
 		"oF": 0
 		},
-	"/_fashion/dazed.markdown": {
+	"/_editorial/dazed.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/dazed.markdown",
+		"oAP": "/_editorial/dazed.markdown",
 		"oF": 0
 		},
-	"/_fashion/double.markdown": {
+	"/_editorial/double.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/double.markdown",
+		"oAP": "/_editorial/double.markdown",
 		"oF": 0
 		},
-	"/_fashion/hot-hot-hot.markdown": {
+	"/_editorial/hot-hot-hot.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/hot-hot-hot.markdown",
+		"oAP": "/_editorial/hot-hot-hot.markdown",
 		"oF": 0
 		},
-	"/_fashion/interview.markdown": {
+	"/_editorial/interview.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/interview.markdown",
+		"oAP": "/_editorial/interview.markdown",
 		"oF": 0
 		},
-	"/_fashion/muse.markdown": {
+	"/_editorial/muse.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/muse.markdown",
+		"oAP": "/_editorial/muse.markdown",
 		"oF": 0
 		},
-	"/_fashion/noon.markdown": {
+	"/_editorial/noon.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/noon.markdown",
+		"oAP": "/_editorial/noon.markdown",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
@@ -1966,7 +1966,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/fashion.md": {
+	"/editorial.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1975,9 +1975,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 2,
-		"oAP": "/fashion.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "/editorial.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -2138,7 +2138,7 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/node_modules/lightgallery/dist/js/lightgallery.js": {
+	"/node_modules/lightGallery/dist/js/lightgallery.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
