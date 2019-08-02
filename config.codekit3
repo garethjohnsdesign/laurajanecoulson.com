@@ -1678,6 +1678,54 @@
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
 		},
+	"/assets/fonts/Canela-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/Canela-Regular.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/Canela-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/Canela-Regular.woff",
+		"oF": 0
+		},
+	"/assets/fonts/Canela-Regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/Canela-Regular.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/canela-thin.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-thin.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/canela-thin.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-thin.woff",
+		"oF": 0
+		},
+	"/assets/fonts/canela-thin.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-thin.woff2",
+		"oF": 0
+		},
 	"/assets/fonts/gallery.woff": {
 		"cB": 0,
 		"ft": 8192,

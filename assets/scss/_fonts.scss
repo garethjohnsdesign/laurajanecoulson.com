@@ -1,4 +1,24 @@
 @font-face {
+  font-family: 'Canela Regular';
+  src: 
+  url('../fonts/canela-regular.woff2') format('woff2'),
+  url('../fonts/canela-regular.woff') format('woff'),
+  url('../fonts/canela-regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Canela Thin';
+  src: 
+  url('../fonts/canela-thin.woff2') format('woff2'),
+  url('../fonts/canela-thin.woff') format('woff'),
+  url('../fonts/canela-thin.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Lyon Text Regular';
   src: 
   url('../fonts/lyon-text-regular.woff2') format('woff2'),
