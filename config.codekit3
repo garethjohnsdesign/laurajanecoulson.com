@@ -60,60 +60,60 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_editorial/buffalo-zine.markdown": {
+	"/_fashion/buffalo-zine.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/buffalo-zine.markdown",
+		"oAP": "/_fashion/buffalo-zine.markdown",
 		"oF": 0
 		},
-	"/_editorial/dazed.markdown": {
+	"/_fashion/dazed.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/dazed.markdown",
+		"oAP": "/_fashion/dazed.markdown",
 		"oF": 0
 		},
-	"/_editorial/double.markdown": {
+	"/_fashion/double.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/double.markdown",
+		"oAP": "/_fashion/double.markdown",
 		"oF": 0
 		},
-	"/_editorial/hot-hot-hot.markdown": {
+	"/_fashion/hot-hot-hot.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/hot-hot-hot.markdown",
+		"oAP": "/_fashion/hot-hot-hot.markdown",
 		"oF": 0
 		},
-	"/_editorial/interview.markdown": {
+	"/_fashion/interview.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/interview.markdown",
+		"oAP": "/_fashion/interview.markdown",
 		"oF": 0
 		},
-	"/_editorial/muse.markdown": {
+	"/_fashion/muse.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/muse.markdown",
+		"oAP": "/_fashion/muse.markdown",
 		"oF": 0
 		},
-	"/_editorial/noon.markdown": {
+	"/_fashion/noon.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_editorial/noon.markdown",
+		"oAP": "/_fashion/noon.markdown",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
@@ -1678,54 +1678,6 @@
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
 		},
-	"/assets/fonts/Canela-Regular.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/fonts/Canela-Regular.ttf",
-		"oF": 0
-		},
-	"/assets/fonts/Canela-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/fonts/Canela-Regular.woff",
-		"oF": 0
-		},
-	"/assets/fonts/Canela-Regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/fonts/Canela-Regular.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/canela-thin.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/fonts/canela-thin.ttf",
-		"oF": 0
-		},
-	"/assets/fonts/canela-thin.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/fonts/canela-thin.woff",
-		"oF": 0
-		},
-	"/assets/fonts/canela-thin.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/assets/fonts/canela-thin.woff2",
-		"oF": 0
-		},
 	"/assets/fonts/gallery.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -2014,7 +1966,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/editorial.md": {
+	"/fashion.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2023,9 +1975,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/editorial.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "/fashion.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
