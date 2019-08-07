@@ -60,60 +60,60 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_fashion/buffalo-zine.markdown": {
+	"/_editorial/buffalo-zine.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/buffalo-zine.markdown",
+		"oAP": "/_editorial/buffalo-zine.markdown",
 		"oF": 0
 		},
-	"/_fashion/dazed.markdown": {
+	"/_editorial/dazed.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/dazed.markdown",
+		"oAP": "/_editorial/dazed.markdown",
 		"oF": 0
 		},
-	"/_fashion/double.markdown": {
+	"/_editorial/double.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/double.markdown",
+		"oAP": "/_editorial/double.markdown",
 		"oF": 0
 		},
-	"/_fashion/hot-hot-hot.markdown": {
+	"/_editorial/hot-hot-hot.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/hot-hot-hot.markdown",
+		"oAP": "/_editorial/hot-hot-hot.markdown",
 		"oF": 0
 		},
-	"/_fashion/interview.markdown": {
+	"/_editorial/interview.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/interview.markdown",
+		"oAP": "/_editorial/interview.markdown",
 		"oF": 0
 		},
-	"/_fashion/muse.markdown": {
+	"/_editorial/muse.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/muse.markdown",
+		"oAP": "/_editorial/muse.markdown",
 		"oF": 0
 		},
-	"/_fashion/noon.markdown": {
+	"/_editorial/noon.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_fashion/noon.markdown",
+		"oAP": "/_editorial/noon.markdown",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
@@ -260,6 +260,14 @@
 		"oAP": "/_layouts/missing.html",
 		"oF": 0
 		},
+	"/_layouts/moving-image.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/moving-image.html",
+		"oF": 0
+		},
 	"/_layouts/page.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -282,14 +290,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/work.html",
-		"oF": 0
-		},
-	"/_moving-image/another-man.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/another-man.markdown",
 		"oF": 0
 		},
 	"/_moving-image/crestbridge.markdown": {
@@ -330,14 +330,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_moving-image/missoni-x-farfetch.markdown",
-		"oF": 0
-		},
-	"/_moving-image/pull-and-bear-02.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/pull-and-bear-02.markdown",
 		"oF": 0
 		},
 	"/_moving-image/pull-and-bear.markdown": {
@@ -388,12 +380,12 @@
 		"oAP": "/_moving-image/uniqlo-jw-anderson.markdown",
 		"oF": 0
 		},
-	"/_moving-image/vouge.markdown": {
+	"/_moving-image/vogue.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_moving-image/vouge.markdown",
+		"oAP": "/_moving-image/vogue.markdown",
 		"oF": 0
 		},
 	"/_site": {
@@ -488,6 +480,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/crestbridge.jpg": {
+		"ft": 16384,
+		"iS": 744704,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/crestbridge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/dazed-01.jpg": {
@@ -598,6 +601,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/gucci.jpg": {
+		"ft": 16384,
+		"iS": 478067,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/gucci.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/hermes.jpg": {
+		"ft": 16384,
+		"iS": 765551,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/hermes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/hot-hot-hot-01.jpg": {
@@ -730,6 +755,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/interview.jpg": {
+		"ft": 16384,
+		"iS": 371596,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/interview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/missoni.jpg": {
+		"ft": 16384,
+		"iS": 350458,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/missoni.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/muse-01.jpg": {
@@ -1381,6 +1428,39 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/tooshie.jpg": {
+		"ft": 16384,
+		"iS": 561565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/tooshie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/uniqlo-jw.jpg": {
+		"ft": 16384,
+		"iS": 398209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/uniqlo-jw.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/vogue-generation-game.jpg": {
+		"ft": 16384,
+		"iS": 310381,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/vogue-generation-game.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/wall-street-journal-01.jpg": {
 		"ft": 16384,
 		"iS": 209147,
@@ -1678,6 +1758,54 @@
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
 		},
+	"/assets/fonts/canela-regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-regular.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/canela-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-regular.woff",
+		"oF": 0
+		},
+	"/assets/fonts/canela-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-regular.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/canela-thin.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-thin.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/canela-thin.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-thin.woff",
+		"oF": 0
+		},
+	"/assets/fonts/canela-thin.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/canela-thin.woff2",
+		"oF": 0
+		},
 	"/assets/fonts/gallery.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -1966,7 +2094,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/fashion.md": {
+	"/editorial.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1975,9 +2103,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 2,
-		"oAP": "/fashion.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "/editorial.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -2138,7 +2266,7 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/node_modules/lightGallery/dist/js/lightgallery.js": {
+	"/node_modules/lightgallery/dist/js/lightgallery.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,

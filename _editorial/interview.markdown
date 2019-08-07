@@ -7,13 +7,13 @@ align-vertical: middle
 align-horizontal: center
 size: medium
 images:
-- "/uploads/hot-hot-hot-01.jpg"
-- "/uploads/hot-hot-hot-02.jpg"
-- "/uploads/hot-hot-hot-03.jpg"
-- "/uploads/hot-hot-hot-04.jpg"
-- "/uploads/hot-hot-hot-05.jpg"
-- "/uploads/hot-hot-hot-06.jpg"
-- "/uploads/hot-hot-hot-07.jpg"
+- "/uploads/interview-01.jpg"
+- "/uploads/interview-02.jpg"
+- "/uploads/interview-03.jpg"
+- "/uploads/interview-04.jpg"
+- "/uploads/interview-05.jpg"
+- "/uploads/interview-06.jpg"
+- "/uploads/interview-07.jpg"
 publication: 
 layout: project
 ---
