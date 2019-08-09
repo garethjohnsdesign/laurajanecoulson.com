@@ -17,15 +17,14 @@ layout: default
                 {% case project.aspect-ratio %}
                 {% when '5-7' %}
                 <a href="{{ project.url }}">
-                <div class="image--5-7 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-aos="fade-in" data-tippy-content="{{ project.title }}"></div>
+                <div class="image--5-7 item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-aos="fade-in" data-tippy-content="{{ project.title }}"></div>
                 </a>
                 {% when '7-5' %}
                 <a href="{{ project.url }}">
-                <div class="image--7-5 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-aos="fade-in" data-tippy-content="{{ project.title }}"></div>
+                <div class="image--7-5 item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-aos="fade-in" data-tippy-content="{{ project.title }}"></div>
                 </a>
                 {% when '16-9' %}
-                <div class="image--16-9 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{project.video}}" data-aos="fade-in" data-tippy-content="{{ project.title }}" data-sub-html="{{ project.title }}"></div>
-                <!-- <div class="margin-top-1">{{project.title}}</div> -->
+                <div class="image--16-9 item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{project.video}}" data-aos="fade-in" data-tippy-content="{{ project.title }}" data-sub-html="{{ project.title }}"></div>
                 {% endcase %} 
               </div>
             </div>

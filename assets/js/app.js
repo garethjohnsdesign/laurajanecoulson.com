@@ -59,6 +59,12 @@ $('.gallery--images').lightGallery({
     counter: false
 });
 
+$('.gallery--home').lightGallery({
+    selector: '.item--home',
+    download: false,
+    counter: false
+});
+
 
 
 
