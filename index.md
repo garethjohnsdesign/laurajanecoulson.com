@@ -7,8 +7,9 @@ images:
   aspect-ratio: 5-7
   align-vertical: top
   align-horizontal: center
-  editorial: Hot Hot Hot
-  film: T-China
+  editorial: 
+  film: 
+  commissions: Arket
 - image: "/uploads/test-002.jpg"
   aspect-ratio: 7-5
   align-vertical: middle
