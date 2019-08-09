@@ -1,6 +1,6 @@
 ---
 title: Information
-position: 3
+position: 5
 details:
 - title: Instagram
   text: "[@laurajanecoulson](https://www.instagram.com/laurajanecoulson/)"

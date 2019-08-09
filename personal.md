@@ -1,6 +1,6 @@
 ---
 title: Personal
-position: 1
+position: 4
 images:
 - image: "/uploads/personal-01.jpg"
   aspect-ratio: 5-7

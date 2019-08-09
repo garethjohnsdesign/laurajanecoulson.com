@@ -1,6 +1,6 @@
 ---
 title: Commissions
-position: 1
+position: 2
 pagination:
   enabled: true
   collection: commissions

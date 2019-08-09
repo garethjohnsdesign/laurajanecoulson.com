@@ -1,6 +1,6 @@
 ---
 title: Moving Image
-position: 1
+position: 3
 pagination:
   enabled: true
   collection: moving-image
