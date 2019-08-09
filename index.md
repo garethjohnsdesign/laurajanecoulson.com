@@ -35,6 +35,14 @@ images:
   editorial:
   film:
   commissions: Arket
+- image: "/uploads/personal-15.jpg"
+  aspect-ratio: 5-7
+  align-vertical: middle
+  align-horizontal: center
+  size: medium
+  editorial: 
+  film:
+  commissions:
 layout: home
 ---
 
