@@ -9,7 +9,7 @@ import "lightGallery";
 import "lg-fullscreen";
 import "lg-video";
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
-import tippy from 'tippy.js'
+import tippy from 'tippy.js';
 
 
 $( document ).ready( function() {
@@ -31,29 +31,29 @@ $( document ).foundation();
 // 1. Lightgallery
 // ---------------
 
-/*
-if ($("body").hasClass("project")) {
-  $(".video" ).lightGallery( {
-    counter: false,
-    videoMaxWidth: '1080px',
-    youtubePlayerParams: {
-      modestbranding: 1,
-      showinfo: 0,
-      rel: 0,
-      autoplay: 0
-    },
-    vimeoPlayerParams: {
-      autoplay: 1,
-      title: 0,
-      byline: 0,
-      portrait: 0,
-      color: 'FFFFFF'
-    }
-  } );
-}
-*/
 
-$('.gallery').lightGallery({
+$(".gallery--video" ).lightGallery( {
+  selector: '.item',
+  counter: false,
+  autoplayFirstVideo: true,
+  autoplayVideoOnSlide: true,
+  videoMaxWidth: '1080px',
+  youtubePlayerParams: {
+    modestbranding: 1,
+    showinfo: 0,
+    rel: 0,
+    autoplay: 0
+  },
+  vimeoPlayerParams: {
+    title: 0,
+    byline: 0,
+    portrait: 0,
+    color: 'FFFFFF'
+  }
+});
+
+
+$('.gallery--images').lightGallery({
     selector: '.item',
     download: false,
     counter: false

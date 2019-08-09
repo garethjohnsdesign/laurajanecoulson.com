@@ -4,12 +4,12 @@ layout: default
 
 <!-- Projects -->
 <div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2" data-equalizer>
+  <div class="grid-x grid-padding-x grid-padding-y gallery--video">
   {% assign projects = paginator.posts %}
   {% for project in projects %}
-
-      <div class="cell" data-equalizer-watch>
-          <div class="grid-y {% case project.align-vertical %}{% when 'top' %}align-left{% when 'middle' %}align-center{% when 'bottom' %}align-right{% endcase %}" style="height: 100%;">
+  {% assign mod = forloop.index | modulo: 2 %}
+      <div class="small-12 medium-6 {% if mod == 0 %}large-offset-6 negative-margin-top{% else %}{% endif %} cell">
+          <div class="grid-y {% case project.align-vertical %}{% when 'top' %}align-left{% when 'middle' %}align-center{% when 'bottom' %}align-right{% endcase %}">
             <div class="shrink cell">
             {% assign image = project.image %}
             <div class="grid-x align-{{project.align-horizontal}}">
@@ -23,6 +23,9 @@ layout: default
                 <a href="{{ project.url }}">
                 <div class="image--7-5 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-aos="fade-in" data-tippy-content="{{ project.title }}"></div>
                 </a>
+                {% when '16-9' %}
+                <div class="image--16-9 item tooltip-item" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" data-src="{{project.video}}" data-aos="fade-in" data-tippy-content="{{ project.title }}" data-sub-html="{{ project.title }}"></div>
+                <!-- <div class="margin-top-1">{{project.title}}</div> -->
                 {% endcase %} 
               </div>
             </div>

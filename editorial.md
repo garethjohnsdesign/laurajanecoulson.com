@@ -1,5 +1,5 @@
 ---
-title: Fashion
+title: Editorial
 position: 1
 pagination:
   enabled: true
