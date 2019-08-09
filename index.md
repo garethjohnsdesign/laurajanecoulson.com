@@ -8,7 +8,7 @@ images:
   align-vertical: top
   align-horizontal: center
   size: large
-  collection: moving-image
+  editorial: moving-image
 - image: "/uploads/test-002.jpg"
   aspect-ratio: 7-5
   align-vertical: middle
