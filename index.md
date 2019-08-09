@@ -7,8 +7,8 @@ images:
   aspect-ratio: 5-7
   align-vertical: top
   align-horizontal: center
-  size: large
-  editorial: moving-image
+  editorial: Hot Hot Hot
+  film: T-China
 - image: "/uploads/test-002.jpg"
   aspect-ratio: 7-5
   align-vertical: middle
