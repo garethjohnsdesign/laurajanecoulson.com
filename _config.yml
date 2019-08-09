@@ -9,7 +9,7 @@ collections:
     title: Editorial
     output: true
   film:
-    title: Moving Image
+    title: Film
     output: true
   personal:
     title: Personal
