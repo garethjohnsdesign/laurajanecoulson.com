@@ -41,8 +41,8 @@ images:
   align-horizontal: center
   size: medium
   editorial: 
-  film:
-  commissions:
+  film: 
+  commissions: 
 layout: home
 ---
 
