@@ -212,6 +212,102 @@
 		"oAP": "/_editorial/noon.markdown",
 		"oF": 0
 		},
+	"/_film/crestbridge.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/crestbridge.markdown",
+		"oF": 0
+		},
+	"/_film/gucci.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/gucci.markdown",
+		"oF": 0
+		},
+	"/_film/hermes.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/hermes.markdown",
+		"oF": 0
+		},
+	"/_film/interview.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/interview.markdown",
+		"oF": 0
+		},
+	"/_film/missoni-x-farfetch.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/missoni-x-farfetch.markdown",
+		"oF": 0
+		},
+	"/_film/pull-and-bear.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/pull-and-bear.markdown",
+		"oF": 0
+		},
+	"/_film/society-protocol.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/society-protocol.markdown",
+		"oF": 0
+		},
+	"/_film/stride.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/stride.markdown",
+		"oF": 0
+		},
+	"/_film/t-china.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/t-china.markdown",
+		"oF": 0
+		},
+	"/_film/tooshie.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/tooshie.markdown",
+		"oF": 0
+		},
+	"/_film/uniqlo-jw-anderson.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/uniqlo-jw-anderson.markdown",
+		"oF": 0
+		},
+	"/_film/vogue.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_film/vogue.markdown",
+		"oF": 0
+		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -394,102 +490,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/work.html",
-		"oF": 0
-		},
-	"/_moving-image/crestbridge.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/crestbridge.markdown",
-		"oF": 0
-		},
-	"/_moving-image/gucci.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/gucci.markdown",
-		"oF": 0
-		},
-	"/_moving-image/hermes.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/hermes.markdown",
-		"oF": 0
-		},
-	"/_moving-image/interview.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/interview.markdown",
-		"oF": 0
-		},
-	"/_moving-image/missoni-x-farfetch.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/missoni-x-farfetch.markdown",
-		"oF": 0
-		},
-	"/_moving-image/pull-and-bear.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/pull-and-bear.markdown",
-		"oF": 0
-		},
-	"/_moving-image/society-protocol.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/society-protocol.markdown",
-		"oF": 0
-		},
-	"/_moving-image/stride.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/stride.markdown",
-		"oF": 0
-		},
-	"/_moving-image/t-china.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/t-china.markdown",
-		"oF": 0
-		},
-	"/_moving-image/tooshie.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/tooshie.markdown",
-		"oF": 0
-		},
-	"/_moving-image/uniqlo-jw-anderson.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/uniqlo-jw-anderson.markdown",
-		"oF": 0
-		},
-	"/_moving-image/vogue.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_moving-image/vogue.markdown",
 		"oF": 0
 		},
 	"/_site": {

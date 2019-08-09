@@ -8,7 +8,7 @@ collections:
   editorial:
     title: Editorial
     output: true
-  moving-image:
+  film:
     title: Moving Image
     output: true
   personal:
