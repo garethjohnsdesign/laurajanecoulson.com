@@ -10,7 +10,7 @@ images:
   size: large
   editorial: 
   film: Hermes
-  commissions:
+  commissions: 
 - image: "/uploads/arket-04.jpg"
   aspect-ratio: 5-7
   align-vertical: middle
@@ -18,22 +18,22 @@ images:
   size: medium
   editorial: 
   film: Gucci
-  commissions:
+  commissions: 
 - image: "/uploads/arket-02.jpg"
   aspect-ratio: 7-5
   align-vertical: middle
   align-horizontal: center
   size: large
   editorial: 
-  film:
-  commissions:
+  film: 
+  commissions: 
 - image: "/uploads/arket-05.jpg"
   aspect-ratio: 7-5
   align-vertical: middle
   align-horizontal: center
   size: large
-  editorial:
-  film:
+  editorial: 
+  film: 
   commissions: Arket
 - image: "/uploads/personal-15.jpg"
   aspect-ratio: 5-7
