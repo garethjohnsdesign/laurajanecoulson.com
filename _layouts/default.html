@@ -9,7 +9,7 @@ layout: compress
 {% include site/head.html %}
 <!-- End Head -->
 
-<body class="{{page.layout | slugify}}">
+<body class="{{page.layout | slugify}} grid-y" style="height: 100vh;">
 
 
 {% if page.layout == "home" %}
@@ -25,9 +25,13 @@ layout: compress
 <!-- End Header -->
 
 <!-- Main -->
-<main class="swup-transition-fade" id="swup-body">
-  {{content}}
-</main>
+<div class="cell auto swup-transition-fade" id="swup-body">
+  <main class="grid-x align-middle" style="min-height: 100%">
+    <div class="cell">
+    {{content}}
+    </div>
+  </main>
+</div>
 <!-- Main -->
 
 <!-- Navigation -->

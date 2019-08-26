@@ -262,6 +262,19 @@ p {
 // 7. Layout
 // ---------
 
+/*
+main {
+  background-color: green;
+  height: 80vh;
+}
+
+.content {
+  background-color: red;
+  @include flex;
+  @include flex-align-self(bottom);
+}
+*/
+
 .padding-vertical-space-1 {
   @include breakpoint(small) {
     @include padding(1, null, 1, null);
