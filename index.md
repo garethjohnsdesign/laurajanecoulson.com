@@ -32,7 +32,7 @@ images:
   align-vertical: middle
   align-horizontal: center
   size: small
-  editorial:
+  editorial: 
   film: 
   commissions: 
 - image: "/uploads/personal-28.jpg"
@@ -40,7 +40,7 @@ images:
   align-vertical: middle
   align-horizontal: center
   size: medium
-  editorial:
+  editorial: 
   film: 
   commissions: 
 - image: "/uploads/haim-01.jpg"
@@ -48,7 +48,7 @@ images:
   align-vertical: middle
   align-horizontal: center
   size: small
-  editorial:
+  editorial: 
   film: 
   commissions: Haim
 - image: "/uploads/arket-07.jpg"
