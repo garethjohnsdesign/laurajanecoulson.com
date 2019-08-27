@@ -32,7 +32,7 @@ images:
   align-vertical: middle
   align-horizontal: center
   size: small
-  editorial: Dazed
+  editorial:
   film: 
   commissions: 
 - image: "/uploads/personal-28.jpg"
@@ -40,7 +40,7 @@ images:
   align-vertical: middle
   align-horizontal: center
   size: medium
-  editorial: Dazed
+  editorial:
   film: 
   commissions: 
 - image: "/uploads/haim-01.jpg"
@@ -48,9 +48,9 @@ images:
   align-vertical: middle
   align-horizontal: center
   size: small
-  editorial: Dazed
+  editorial:
   film: 
-  commissions: 
+  commissions: Haim
 - image: "/uploads/arket-07.jpg"
   aspect-ratio: 5-7
   align-vertical: middle
